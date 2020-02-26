@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314867697307",
+    "firebase_url": "https://iot-nk.firebaseio.com",
+    "project_id": "iot-nk",
+    "storage_bucket": "iot-nk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314867697307:android:5f14f45b5c315be3fc683e",
+        "android_client_info": {
+          "package_name": "com.example.firebasecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314867697307-k8t9c4d74p3b8k4c5d0ucu6llrncvumc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4NrJeup8zXmZaXjKpZWsb6sbdwEpiMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314867697307-k8t9c4d74p3b8k4c5d0ucu6llrncvumc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
