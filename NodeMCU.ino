@@ -8,10 +8,10 @@
 #include <FirebaseArduino.h>  
   
 // Change this  
-#define FIREBASE_HOST "iot-nk.firebaseio.com"  
-#define FIREBASE_AUTH "lpZtk2szNYXDyZZchFs8DMUd07piF3wpcVH10Ztw"  
-#define WIFI_SSID "NK73"  
-#define WIFI_PASSWORD "00000000000"  
+#define FIREBASE_HOST "your-project.firebaseio.com"  
+#define FIREBASE_AUTH "FIREBASE DATABASE SECRET HERE"  
+#define WIFI_SSID "YourWifi_SSID"  
+#define WIFI_PASSWORD "Wifi_Password"   
 
 int pin = 13;
 
