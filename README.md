@@ -1,10 +1,8 @@
-# App ScreenShots
-
-<img src="Screenshots/device-2020-02-26-200641.png" width="300" height="540" />
-
 
 # NodeMCU-Firebase-Source_code
 
+
+# Source.ino
 ```c
 #include <Firebase.h>  
 #include <FirebaseArduino.h>  
