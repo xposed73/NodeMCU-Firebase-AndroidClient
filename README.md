@@ -1,7 +1,7 @@
 # NodeMCU-Firebase-Controller
 
 
-```
+```c
 #include <Firebase.h>  
 #include <FirebaseArduino.h>  
 #include <FirebaseCloudMessaging.h>  
