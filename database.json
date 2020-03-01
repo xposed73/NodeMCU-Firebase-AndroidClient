@@ -1,7 +1,48 @@
 {
-	"data": [
+	"records": [
     {
-		"name": "ABC Radio",
-		"id": "love"
+		"Name": "ABC Radio",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2010/10/ABC-Radio1.jpg",
+		"StremUrl": "http://st2.zenorad.io:14424"
+	}, {
+		"Name": "Bangla Al-Quran",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2011/08/Bangla-Al-Quran.jpg",
+		"StremUrl": "http://66.45.232.131:9994/;stream/1/"
+	}, {
+		"Name": "Bangladesh Betar 100.0 FM",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2012/02/Bangladesh-betar1.jpg",
+		"StremUrl": "http://ample-zeno-07.radiojar.com/8w0533k6vewtv?rj-ttl=5&rj-token=AAABX87UTciGemPgMYZ0vYCKX0u3FHfYhNNe7FGx44CJCpgkjSc2Pw"
+	}, {
+		"Name": "Bangladesh Betar 102.5 FM",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2017/11/Bangladesh-Betar-102.5-FM.jpg",
+		"StremUrl": "http://ample-zeno-12.radiojar.com/8w0533k6vewtv?rj-ttl=5&rj-token=AAABX87WCYHZYYDKJvYhTsLYacCeJTvD1esuIH-JgrZpG7qrgb6Iyw"
+	}, {
+		"Name": "Bangladesh Betar AM",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2017/11/Bangladesh-Betar-AM.jpg",
+		"StremUrl": "http://192.235.87.105:14322/"
+	}, {
+		"Name": "Bhoot FM",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2012/02/Bhoot-FM.jpg",
+		"StremUrl": "http://119.148.23.88:1021/;stream/1"
+	}, {
+		"Name": "Bondhu FM",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2018/05/Bondhu-FM.jpg",
+		"StremUrl": "http://andromeda.shoutca.st:8131/stream"
+	}, {
+		"Name": "Colours FM 101.6",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2017/05/Colours-FM-101.6.jpg",
+		"StremUrl": "http://45.64.135.88:8000/stream1"
+	}, {
+		"Name": "Dhaka Fm",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2012/10/Dhaka-Fm.png",
+		"StremUrl": "http://118.179.219.244:8000/"
+	}, {
+		"Name": "FM Kuthi Bari",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2018/03/FM-Kuthi-Bari.jpg",
+		"StremUrl": "https://listen.radioking.com/radio/1743/stream/125"
+	}, {
+		"Name": "IWI FM",
+		"Image": "http://www.liveonlineradio.net/wp-content/uploads/2017/11/IWI-FM.jpg",
+		"StremUrl": "http://192.240.102.133:12110/;stream/1"
 	}]
 }
